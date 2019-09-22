@@ -1,0 +1,13 @@
+github = manajemen proyek dan sistem versioning code sekaligus platform jaringan sosial yang dirancang khusus bagi para developer
+git = sistem pengontrol versi yang dikembangkan oleh linus torvalds (developer linux)
+pengontrol versi = membantu para developer dalam melacak perubahan yang mereka lakukan terhadap basis kode. sistem ini juga mencatat siapa saja yang membuat perubahan.
+repositori = direktori penyimpanan file proyek
+
+Cara Membuat Repositori
+1. Masukan repositori name
+2. Masukkan Deskripsi(opsional)
+3. Pilih type public
+4.README jangan diceklis
+5.Create Repositori
+
+nth-child = untuk mengurangi penggunaan nama class 
